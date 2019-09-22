@@ -1,6 +1,6 @@
 # simple_chat_app
 
-<img src="https://raw.githubusercontent.com/alphoenixbiz/Flutter-Apps/WhatsApp_Clone/Screenshot_1569164502.png" width="400" height="700">
+<img src="https://raw.githubusercontent.com/alphoenixbiz/Flutter-Apps/Simple_Chat_App/Screenshot_1569164502.png" width="400" height="700">
 
 A new Flutter application.
 
