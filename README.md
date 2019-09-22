@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/alphoenixbiz/Flutter-Apps/WhatsApp_Clone/Screenshot_1569167522.png" width="400" height="700">
 
-<img src="https://raw.githubusercontent.com/alphoenixbiz/Flutter-Apps/Screenshot_1569163055.png" width="400" height="790">
-
 A new Flutter application.
 
 ## Getting Started
