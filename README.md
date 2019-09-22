@@ -1,5 +1,6 @@
 # whatsapp_clone
-![alt text](https://raw.githubusercontent.com/alphoenixbiz/Flutter-Apps/WhatsApp_Clone/Screenshot_1569167522.png.png)
+
+![alt text](https://raw.githubusercontent.com/alphoenixbiz/Flutter-Apps/WhatsApp_Clone/Screenshot_1569167522.png)
 
 A new Flutter application.
 
