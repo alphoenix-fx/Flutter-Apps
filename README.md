@@ -2,5 +2,6 @@
 ios, android and webapps
 First App
 
-<img src="https://raw.githubusercontent.com/alphoenixbiz/Flutter-Apps/Screenshot_1569163055.png" width="400" height="790">
+Branch 2: App Screenshot
+<img src="https://raw.githubusercontent.com/alphoenixbiz/Flutter-Apps/WhatsApp_Clone/Screenshot_1569167522.png" width="400" height="700">
 
